@@ -1,0 +1,22 @@
+Dasun Shanaka,32,1,1
+Wanindu Hasaranga,26,0,1
+Chamika Karunaratne,27,1,1
+Kusal Mendis,28,1,1
+Pathum Nissanka,25,0,1
+Kusal Perera,33,0,1
+Kumar Sangakkara,45,1,1
+Sanath Teran Jayasuriya,54,0,1
+Angelo Davis Mathews,36,0,1
+Dunith Nethmika Wellalage,20,1,1
+Muthiah Muralidaran,51,1,1
+Rohit Sharma,45,0,1
+Virat Kohli,40,1,1
+Jasprit Bumrah,25,1,1
+Ravichandran Ashwin,33,1,1
+Axar Patel,41,1,1
+Mohommed Siraj,34,0,1
+Umesh Yadav,26,1,1
+Ishan Kishan,33,1,1
+Deepal Hooda,25,1,1
+Shardul Thakur,28,1,1
+Sanju Samson,36,0,1
